@@ -4,6 +4,10 @@ def sqrt(b):
 	a = b ** (1/2)
 	return a
 #///////////////////////////////////////////////
+#Пример использования:
+#import mathbyarersen as math
+#a = math.log(основа,число)
+#print(a)
 def log(x,y):
   return ln(y)/ln(x)
 def ln(x):

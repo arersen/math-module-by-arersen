@@ -5,5 +5,8 @@ def sqrt(b):
 	return a
 #///////////////////////////////////////////////
 def log(x,y):
-	#(x ** z) = y
+  return ln(y)/ln(x)
+def ln(x):
+  return x/1-x**2/2+x**3/3-x**4/4+x**5/5-x**6/6+x**7/7
+	
 	

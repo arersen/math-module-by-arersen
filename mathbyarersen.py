@@ -1,4 +1,5 @@
 #import mathbyarersen as math
+#используйте ключевое слово ''as'' для сокращения импорта
 #print(math.sqrt(число,либо переменная)
 def sqrt(b):
 	a = b ** (1/2)

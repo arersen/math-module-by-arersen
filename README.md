@@ -7,7 +7,7 @@
 
 <h1>Функции</h1>
 
-<Li>Преподнести число к квадратному корню:</li>
+<h3><Li>Преподнести число к квадратному корню:</li></h3>
 <p> Пример кода с подключенным модулем mathbyarersen.py:</p>
 <b class="li1"><li> import mathbyarersen as math</li>
 <li> a = int(input("a="))</li>

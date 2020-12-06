@@ -13,10 +13,4 @@
 <li>a = int(input("a="))</li>
 <li>b = math.sqrt(a)</li>
 <li>print("a= ",b)</li></b>
-<style>
-  .li1
-  {
-  font-size:12px;
-  }
-  </style>
 

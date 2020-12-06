@@ -16,4 +16,9 @@
 
 <h3><li>log(a,b):</li></h3>
   Логарифм числа <b>b</b> по основанию <b>a</b>
+  <p> Пример кода с подключенным модулем mathbyarersen.py:</p>
+    <li>import mathbyarersen as math
+    <li>a = int(input("Введите по какому основанию будет логарифм "))
+    <li>b = int(input("Введите число: "))
+    <li>
 

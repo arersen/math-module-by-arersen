@@ -14,6 +14,6 @@
 <li> b = math.sqrt(a)</li>
 <li> print("a= ",b)</li></b>
 
-<h3><li>log(a,b):</li>
+<h3><li>log(a,b):</li></h3>
   Логарифм числа <b>b</b> по основанию <b>a</b>
 

@@ -22,4 +22,11 @@
     <li>b = int(input("Введите число: "))</li>
     <li>c = math.log(a,b)</li></b>
     <p>Работает не точно,для точности пользуйтесь округлителем до ближайшого числа</p>
+#### Факториал переменной:
+```
+import mathbyarersen as math
+a = int(input("Введите число: "))
+res = math.fact(a)
+print(res)
+````
 

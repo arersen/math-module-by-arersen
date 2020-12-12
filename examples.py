@@ -1,6 +1,10 @@
 import mathbyarersen as math #сокращения используем чисто для удобного использования
 while True:
-  type = input("Выберите которую вы функцию хотите использовать:\nlog\nsqrt\n")
+  type = input("Выберите которую вы функцию хотите использовать:\nlog\nsqrt\nfact\n")
+  if type == "fact":
+    a = int(input("Введите число: "))
+    res = math.fact(a)
+    print(res)
   if type == "log":
     a = int(input("Введите по какому основанию будет логарифм "))
     b = int(input("Введите число: "))
@@ -13,4 +17,7 @@ while True:
     elif num >= 0:
       res = math.sqrt(num)
       print(res)
+      
+      
+      
   

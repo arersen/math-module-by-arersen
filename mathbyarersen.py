@@ -36,4 +36,10 @@ class SQRT:
 		step = 1 / b
 		res = a ** (1 / b)
 		return res
+	#факториалы
+def fact(n):
+	pr = 1
+	for i in range(1 , n + 1):
+		pr  = pr * i;
+	return pr
 	

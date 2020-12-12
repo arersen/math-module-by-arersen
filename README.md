@@ -24,11 +24,11 @@
     <li>c = math.log(a,b)</li></b>
     <p>Работает не точно,для точности пользуйтесь округлителем до ближайшого числа</p>
     </html>
-### Факториал переменной:
+<h3> Факториал переменной:</h3>
 
-import mathbyarersen as math
-a = int(input("Введите число: "))
-res = math.fact(a)
-print(res)
+<li>import mathbyarersen as math</li>
+<li>a = int(input("Введите число: "))</li>
+<li>res = math.fact(a)</li>
+<li>print(res)</li>
 
 

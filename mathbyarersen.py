@@ -42,4 +42,14 @@ def fact(n):
 	for i in range(1 , n + 1):
 		pr  = pr * i;
 	return pr
+class DtoR:
+	def RtoD(value):
+		pi = PI.pi(0)
+		res = value * (pi / 180)
+		return res
+	def DtoR(value):
+		pi = PI.pi(0)
+		res = value * (180 / pi)
+		return res
+		
 	

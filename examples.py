@@ -10,6 +10,12 @@ while True:
     b = int(input("Введите число: "))
     c = math.log(a,b)
     print(c)
+  if type == 'rtod':
+        a = input('Введите число'):
+            print(math.RandD.RtoD(a))
+  if type == 'dtor':
+        a = input('Введите число')
+        print(math.RandD.RtoD(a))
   if type == "sqrt":
     num = int(input("Введите число: "))
     if num < 0:
@@ -17,6 +23,8 @@ while True:
     elif num >= 0:
       res = math.sqrt(num)
       print(res)
+   
+ 
       
       
       

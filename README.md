@@ -31,4 +31,7 @@
 <li>res = math.fact(a)</li>
 <li>print(res)</li>
 
+###Радианы в Градусы и наоборот
+
+
 

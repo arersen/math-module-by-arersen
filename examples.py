@@ -11,7 +11,7 @@ while True:
     c = math.log(a,b)
     print(c)
   if type == 'rtod':
-        a = input('Введите число'):
+        a = input('Введите число')
             print(math.RandD.RtoD(a))
   if type == 'dtor':
         a = input('Введите число')
